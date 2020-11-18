@@ -25,6 +25,11 @@
     "mongoose": "^5.10.11",
     "morgan": "~1.9.1",
     "pug": "2.0.0-beta11",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.3.0",
+    "validator": "^13.1.17"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "nodemon": "^2.0.6"
   }
 }
