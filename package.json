@@ -5,6 +5,10 @@
   "scripts": {
     "start": "nodemon server.js"
   },
+  "author": {
+    "name": "Hritik Chokker",
+    "email": "chokker.hritik@gmail.com"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
@@ -20,6 +24,7 @@
     "mongoose": "^5.10.15",
     "morgan": "^1.9.1",
     "pug": "^2.0.0-beta11",
+    "socket.io": "^2.3.0",
     "validator": "^13.1.17"
   }
 }
